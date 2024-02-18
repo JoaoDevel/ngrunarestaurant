@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+   @import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Dancing+Script:wght@400..700&family=Fira+Mono:wght@400;500;700&family=Indie+Flower&family=Mr+Dafoe&family=Neucha&family=Shadows+Into+Light&display=swap');
+    }
+   
+
+
+body {  
+    height: 100%; 
+ 
+   
+}
+
+
+.titulo{
+    
+    margin: 0 auto;
+    border-bottom: solid rgb(43, 125, 154);
+    padding: 10px;
+    
+
+}
+.titulo h2{
+    font-family:  "Fira Mono", monospace;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+    padding-left: 10PX;
+    margin-left: 10px;
+    
+   
+
+    
+}
+
+.titulo img{
+    border-radius: 25px;
+    
+    
+   
+
+}
+
+.botao {
+  margin-bottom: 10px;
+  font-size: 40px;
+  background: none;
+  border-right:none;
+  border-bottom:none;
+  margin-left: 80%;
+ 
+  
+ 
+}
+
+   
+
